@@ -1,5 +1,10 @@
+Learning Python for fun! 
+
+![download](https://github.com/user-attachments/assets/01532d41-91f4-4684-9d2a-c11cddfe59da)
+
 Python
 BeginnersGuide/Programmers - Python Wiki
+https://wiki.python.org/moin/BeginnersGuide/Programmers
 
 Basic
 Genepy — Python Exercises
