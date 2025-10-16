@@ -1,5 +1,1 @@
-def hello():
-    print("Hello LP!")
-
-
-hello()
+print("Hello LP!")

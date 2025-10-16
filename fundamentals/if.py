@@ -1,3 +1,4 @@
+# if
 def hello_if(number: int):
     if number == 0:
         print("Zero")
