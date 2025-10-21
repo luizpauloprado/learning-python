@@ -1,3 +1,6 @@
+# https://www.pythoncheatsheet.org/blog/python-easy-args-kwargs
+
+
 def some_function(*args, **kwargs):
     if args:
         print(f"Arguments passed: {args} as {type(args)}")
